@@ -1,0 +1,7 @@
+*.schlog
+*.symlog
+*.html
+*#*
+*~
+.*
+!.gitignore
